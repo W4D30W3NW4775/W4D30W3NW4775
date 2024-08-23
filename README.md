@@ -2,7 +2,7 @@
 
 <p>i'am new on github and i think this is a good place to share my coding projects.</p>
 
-<p>i'm new to coding, so don't expect any 1000000000 line projects...:). currently<br>
+<p>i'm also new to coding, so don't expect any 1000000000 line projects...:). currently<br>
   i'm writing smaller projects (mainly in python at the moment) and i'am very happy<br>
 when they works.</p>
 
